@@ -6,7 +6,7 @@ public class TestaConversao {
         int valor = (int)salario;
         System.out.println(valor);
 
-        long numeroGrande = 5123448961l;
+        long numeroGrande = 1234567;
         System.out.println(numeroGrande);
         
         short numeroPequeno = 245;
